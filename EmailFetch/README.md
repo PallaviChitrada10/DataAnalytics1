@@ -1,4 +1,4 @@
-# DataAnalytics1
+# Email Fetch
 
 We need to fetch 1000 random user records from the RandomUser.me API using Python and store them in a structured format (JSON, CSV, or database).  
 
